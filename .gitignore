@@ -1,2 +1,5 @@
 *.docx
 *.png
+
+!circular-logo.png
+!horizontal-logo.png
